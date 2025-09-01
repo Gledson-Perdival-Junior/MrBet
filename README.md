@@ -65,3 +65,6 @@ Este projeto foi desenvolvido como parte de atividades laboratoriais da discipli
    ````bash
    java mrbet.MrBetMain
    ````
+##📜 Licença
+
+Este projeto é de uso acadêmico. Sinta-se à vontade para utilizá-lo e modificá-lo conforme necessário.
